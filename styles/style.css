@@ -21,7 +21,7 @@ body{
 font-weight: 700;
 padding: 15px 18px;
 
-
+.header{}
 }
 .nav-title { 
  color: #181818;
@@ -43,4 +43,17 @@ nav li{
 nav a{
  text-decoration: none;
  color:gray;
+}
+.header{
+ background-color: blanchedalmond;
+}
+.banner{
+ padding: 30px 30px 30px 150px;
+ display: flex;
+ align-items: center;
+}
+.banner .profile-picture{
+ width: 500px;
+
+
 }
