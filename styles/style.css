@@ -35,7 +35,6 @@ font-weight: 400;
 font-weight: 700;
 padding: 15px 18px;
 
-.header{}
 }
 .nav-title { 
  color: #181818;
@@ -95,4 +94,14 @@ nav a{
  margin: 130px 0px;
 
 }
-
+main{
+ max-width: 1140px;
+ margin: 0 auto;
+}
+.about-info-container {
+ display:flex;
+ justify-content: space-around;
+}
+.about-info{
+ text-align: center;
+}
